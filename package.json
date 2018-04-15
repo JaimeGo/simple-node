@@ -1,0 +1,23 @@
+{
+  "name": "simple-node",
+  "version": "1.0.0",
+  "description": "A simple and functional node server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaimeGo/simple-node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Jaime González",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaimeGo/simple-node/issues"
+  },
+  "homepage": "https://github.com/JaimeGo/simple-node#readme"
+}
